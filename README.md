@@ -1,2 +1,3 @@
-# Student_recommendatin
-It focus on predicting student performance and  personalized interventions using machine learning techniques
+# Student_recommendation
+
+This project implements ML models to predict student performance in e-learning using the OULAD dataset.
